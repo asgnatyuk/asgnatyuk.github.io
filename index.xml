@@ -33,10 +33,78 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 14 May 2022 22:10:59 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;Markdown-mark.png&#34; alt=&#34;Markdown_logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.&lt;/p&gt;
+&lt;h1 id=&#34;headings&#34;&gt;Headings&lt;/h1&gt;
+&lt;p&gt;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three , use three number signs (e.g., ### My Header).&lt;/p&gt;
+&lt;h1 id=&#34;alternate-syntax&#34;&gt;Alternate Syntax&lt;/h1&gt;
+&lt;p&gt;Alternatively, on the line below the text, add any number of == characters for heading level 1 or &amp;ndash; characters for heading level 2.&lt;/p&gt;
+&lt;h1 id=&#34;heading-best-practices&#34;&gt;Heading Best Practices&lt;/h1&gt;
+&lt;p&gt;Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name. For compatibility, always put a space between the number signs and the heading name&lt;/p&gt;
+&lt;h1 id=&#34;paragraphs&#34;&gt;Paragraphs&lt;/h1&gt;
+&lt;p&gt;To create paragraphs, use a blank line to separate one or more lines of text.&lt;/p&gt;
+&lt;h1 id=&#34;line-breaks&#34;&gt;Line Breaks&lt;/h1&gt;
+&lt;p&gt;To create a line break or new line, end a line with two or more spaces, and then type return.&lt;/p&gt;
+&lt;h1 id=&#34;bold&#34;&gt;Bold&lt;/h1&gt;
+&lt;p&gt;To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.&lt;/p&gt;
+&lt;h1 id=&#34;italic&#34;&gt;Italic&lt;/h1&gt;
+&lt;p&gt;To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters&lt;/p&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;p&gt;To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (&lt;a href=&#34;https://duckduckgo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://duckduckgo.com&lt;/a&gt;)).&lt;/p&gt;
+&lt;h1 id=&#34;reference-style-links&#34;&gt;Reference-style Links&lt;/h1&gt;
+&lt;p&gt;Reference-style links are a special kind of link that make URLs easier to display and read in Markdown. Reference-style links are constructed in two parts: the part you keep inline with your text and the part you store somewhere else in the file to keep the text easy to read.&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+&lt;p&gt;To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week</title>
+      <link>https://example.com/post/last-week/</link>
+      <pubDate>Sat, 14 May 2022 21:54:12 +0300</pubDate>
+      <guid>https://example.com/post/last-week/</guid>
+      <description>&lt;p&gt;Hi everyone, in this post I&amp;rsquo;d like to tell you what I did last week.&lt;/p&gt;
+&lt;h1 id=&#34;how-my-weel-was-spent&#34;&gt;How my weel was spent.&lt;/h1&gt;
+&lt;p&gt;Well, I would like to start by saying that I had a pretty productive week. I devoted it to studying and reading books. I started reading the book &amp;ldquo;The War of the Worlds&amp;rdquo; by Herbert Wells. I also managed to watch the movie &amp;ldquo;The Green Mile&amp;rdquo;. Naturally, it should be noted the fact that I walked a lot, because the weather that week was just delightful.&lt;/p&gt;
+&lt;h1 id=&#34;what-i-have-realised&#34;&gt;What I have realised?&lt;/h1&gt;
+&lt;p&gt;Well, since I have only recently begun to learn programming languages, it was a revelation to me that Python is the most convenient and interesting language. After doing some lab work, I realized how clear and practical this language is. That&amp;rsquo;s why I would like to learn it and use it in the future.&lt;/p&gt;
+&lt;h1 id=&#34;how-this-realisation-can-help-me-in-future&#34;&gt;How this realisation can help me in future?&lt;/h1&gt;
+&lt;p&gt;I believe that this insight of mine will guide me in the tedious direction of my career ladder. There are a huge number of things written in this language. And games go in there, too. So this insight will help me a lot in the future.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-deal-with-mistakes&#34;&gt;How to deal with mistakes?&lt;/h1&gt;
+&lt;p&gt;To solve all your problems related to the lack of free time, you should try to distribute your regular time grammatically and correctly. And do not do useless things in your free time. But to study and study more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://example.com/post/marcdown/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://example.com/post/marcdown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
