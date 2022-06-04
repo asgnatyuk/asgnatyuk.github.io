@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Анастасия С. Гнатюк</title>
+    <link>https://asgnatyuk.github.io/ru/</link>
+      <atom:link href="https://asgnatyuk.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Анастасия С. Гнатюк</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://asgnatyuk.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Анастасия С. Гнатюк</title>
+      <link>https://asgnatyuk.github.io/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://asgnatyuk.github.io/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://asgnatyuk.github.io/ru/post/java/</link>
+      <pubDate>Sat, 28 May 2022 19:12:20 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/java/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Java_logo&#34; srcset=&#34;
+               /ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_72b8fea70fed059434d01a8c2e4e3848.webp 400w,
+               /ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_d34bacfa5e08688505d6a5e8a8dedeb7.webp 760w,
+               /ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://asgnatyuk.github.io/ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_72b8fea70fed059434d01a8c2e4e3848.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;java&#34;&gt;Java&lt;/h1&gt;
+&lt;p&gt;Java - это высокоуровневый объектно-ориентированный язык программирования, основанный на классах, который разработан так, чтобы иметь как можно меньше зависимостей от реализации. Это язык программирования общего назначения, который позволяет программистам писать один раз, выполнять везде (WORA), что означает, что скомпилированный Java-код может работать на всех платформах, поддерживающих Java, без необходимости перекомпиляции. Java-приложения обычно компилируются в байткод, который может работать на любой виртуальной машине Java (JVM) независимо от архитектуры компьютера. Синтаксис Java похож на синтаксис C и C++, но имеет меньше низкоуровневых средств, чем любой из них. Время выполнения Java предоставляет динамические возможности (такие как отражение и модификация кода во время выполнения), которые обычно недоступны в традиционных компилируемых языках. По данным GitHub на 2019 год, Java является одним из самых популярных языков программирования, особенно для клиент-серверных веб-приложений, с 9 миллионами разработчиков.
+&lt;p&gt;Java была первоначально разработана Джеймсом Гослингом в компании Sun Microsystems и выпущена в мае 1995 года как основной компонент платформы Java компании Sun Microsystems. Оригинальный и эталонный компиляторы Java, виртуальные машины и библиотеки классов были первоначально выпущены компанией Sun под проприетарными лицензиями. По состоянию на май 2007 года, в соответствии со спецификациями Java Community Process, Sun перелицензировала большинство своих технологий Java под лицензией GPL-2.0-only. Oracle предлагает свою собственную виртуальную машину HotSpot Java Virtual Machine, однако официальной эталонной реализацией является OpenJDK JVM, которая является бесплатным программным обеспечением с открытым исходным кодом, используется большинством разработчиков и является JVM по умолчанию почти для всех дистрибутивов Linux.
+&lt;h1 id=&#34;история&#34;&gt;История&lt;/h1&gt;
+&lt;p&gt;Джеймс Гослинг, Майк Шеридан и Патрик Нотон начали проект по созданию языка Java в июне 1991 года. Java изначально была разработана для интерактивного телевидения, но в то время она была слишком сложной для индустрии цифрового кабельного телевидения. Первоначально язык назывался Oak в честь дуба, который стоял возле офиса Гослинга. Позже проект получил название Green и, наконец, был переименован в Java, от Java coffee, сорта кофе из Индонезии.Гослинг разработал Java с синтаксисом в стиле C/C++, который будет знаком системным и прикладным программистам.&lt;/p&gt;
+&lt;h1 id=&#34;принципы&#34;&gt;Принципы&lt;/h1&gt;
+&lt;p&gt;При создании языка Java преследовалось пять основных целей:&lt;/p&gt;
+&lt;p&gt;Он должен быть простым, объектно-ориентированным и знакомым.
+&lt;p&gt;Он должен быть надежным и безопасным.
+&lt;p&gt;Он должен быть нейтральным к архитектуре и переносимым.
+&lt;p&gt;Он должен выполняться с высокой производительностью.
+&lt;p&gt; Он должен быть интерпретируемым, потоковым и динамическим.
+&lt;h1 id=&#34;синтаксис&#34;&gt;Синтаксис&lt;/h1&gt;
+&lt;p&gt;Синтаксис Java в значительной степени сформировался под влиянием C++ и C. В отличие от C++, который сочетает в себе синтаксис структурного, общего и объектно-ориентированного программирования, Java был создан почти исключительно как объектно-ориентированный язык. Весь код пишется внутри классов, и каждый элемент данных является объектом, за исключением примитивных типов данных (т.е. целых чисел, чисел с плавающей точкой, булевых значений и символов), которые не являются объектами по причинам производительности. Java повторно использует некоторые популярные аспекты C++ (например, метод printf).&lt;/p&gt;
+&lt;p&gt;В отличие от C++, Java не поддерживает перегрузку операторов и множественное наследование для классов, хотя множественное наследование поддерживается для интерфейсов.
+&lt;p&gt;В Java используются комментарии, аналогичные комментариям в C++. Существует три различных стиля комментариев: однострочный, обозначаемый двумя косыми чертами (//), многострочный, открываемый символом /* и закрываемый символом */, и стиль комментариев Javadoc, открываемый символом /** и закрываемый символом */. Стиль комментирования Javadoc позволяет пользователю запустить исполняемый файл Javadoc для создания документации к программе и может быть прочитан некоторыми интегрированными средами разработки (IDE), такими как Eclipse, чтобы позволить разработчикам получить доступ к документации в IDE.
+Все исходные файлы должны быть названы по имени публичного класса, который они содержат, с добавлением суффикса .java, например, HelloWorldApp.java. Сначала он должен быть скомпилирован в байткод с помощью компилятора Java, в результате чего создается файл с суффиксом .class (в данном случае HelloWorldApp.class). Только после этого он может быть выполнен или запущен. Исходный файл Java может содержать только один открытый класс, но он может содержать несколько классов с модификатором непубличного доступа и любое количество открытых внутренних классов. Когда исходный файл содержит несколько классов, необходимо сделать один класс (представленный ключевым словом class) публичным (которому предшествует ключевое слово public) и назвать исходный файл именем этого публичного класса.
+&lt;p&gt;Класс, который не объявлен как public, может храниться в любом файле .java. Компилятор создаст файл класса для каждого класса, определенного в исходном файле. Имя файла класса - это имя класса с добавлением .class. При генерации файла класса анонимные классы обрабатываются так, как если бы их имя было конкатенацией имени их объемлющего класса, $ и целого числа.
+&lt;p&gt;&amp;lt;Ключевое слово public означает, что метод может быть вызван из кода других классов, или что класс может быть использован классами вне иерархии классов. Иерархия классов связана с именем каталога, в котором находится файл .java. Это называется модификатором уровня доступа. Другие модификаторы уровня доступа включают ключевые слова private (метод, доступ к которому возможен только в том же классе) и protected (разрешает доступ коду из того же пакета). Если часть кода пытается получить доступ к приватным или защищенным методам, JVM выбросит SecurityException&lt;/p&gt;
+&lt;p&gt;Ключевое слово static перед методом означает статический метод, который связан только с классом, а не с каким-либо конкретным экземпляром этого класса. Только статические методы могут быть вызваны без ссылки на объект. Статические методы не могут обращаться к членам класса, которые также не являются статическими. Методы, не обозначенные как статические, являются методами экземпляра и требуют для работы конкретного экземпляра класса.
+&lt;p&gt;Ключевое слово void указывает на то, что метод main не возвращает никакого значения вызывающей стороне. Если программа на Java должна завершиться с кодом ошибки, она должна явно вызвать System.exit().
+&lt;p&gt;Имя метода main не является ключевым словом в языке Java. Это просто имя метода, который вызывает программа запуска Java для передачи управления программе. Классы Java, работающие в управляемых средах, такие как апплеты и Enterprise JavaBeans, не используют и не нуждаются в методе main(). Программа Java может содержать несколько классов, имеющих методы main, что означает, что виртуальной машине необходимо явно указать, из какого класса запускать программу.
+&lt;p&gt;Метод main должен принимать массив объектов String. По традиции он обозначается как args, хотя можно использовать любое другое законное имя идентификатора. Начиная с Java 5, метод main может также использовать переменные аргументы в форме public static void main(String... args), что позволяет вызывать метод main с произвольным количеством аргументов String. Эффект этого альтернативного объявления семантически идентичен (параметр args по-прежнему является массивом объектов String), но он позволяет использовать альтернативный синтаксис для создания и передачи массива.
+&lt;p&gt;Пусковая установка Java запускает Java, загружая заданный класс (указанный в командной строке или как атрибут в JAR) и запуская его метод public static void main(String[]). Автономные программы должны объявить этот метод явно. Параметр String[] args - это массив объектов String, содержащий любые аргументы, переданные классу. Параметры в main часто передаются с помощью командной строки.
+&lt;p&gt;Печать является частью стандартной библиотеки Java: Класс System определяет публичное статическое поле, называемое out. Объект out является экземпляром класса PrintStream и предоставляет множество методов для печати данных на стандартный вывод, включая println(String), который также добавляет новую строку к переданной строке.
+&lt;p&gt;Строка &#34;Hello World!&#34; автоматически преобразуется компилятором в объект String.</description>
+    </item>
+    
+    <item>
+      <title>Последняя неделя(23.05 - 29.05)</title>
+      <link>https://asgnatyuk.github.io/ru/post/last-week/</link>
+      <pubDate>Sat, 28 May 2022 19:12:03 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/last-week/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Pusheen&#34; srcset=&#34;
+               /ru/post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_d66133de8c117b80a9afce3689c0c420.webp 400w,
+               /ru/post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_30342e28cb5dc869415af791eefea132.webp 760w,
+               /ru/post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://asgnatyuk.github.io/ru/post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_d66133de8c117b80a9afce3689c0c420.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Привет всем, в этом посте я хочу рассказать вам о том, как я провел последнюю неделю.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя.&lt;/h1&gt;
+&lt;p&gt;Для начала я хотел бы сказать, что у меня была замечательная неделя! 23 мая у меня был день рождения. Всю неделю меня осыпали подарками и любовью. Кроме того, я целую неделю работала и делала лабораторные работы. В общем, я отлично провела время!&lt;/p&gt;
+&lt;h1 id=&#34;что-я-понял&#34;&gt;Что я понял?&lt;/h1&gt;
+&lt;p&gt;В очередной раз я понял, как здорово праздновать день рождения! В этот день все твои друзья и родственники вспоминают о твоем существовании. Это очень приятно. Ребята, любите дни рождения!&lt;/p&gt;
+&lt;h1 id=&#34;как-это-осознание-может-помочь-мне-в-будущем&#34;&gt;Как это осознание может помочь мне в будущем?&lt;/h1&gt;
+&lt;p&gt;Это осознание заставляет меня еще больше любить свою жизнь и людей вокруг меня.&lt;/p&gt;
+&lt;h1 id=&#34;как-справиться-с-ошибками&#34;&gt;Как справиться с ошибками?&lt;/h1&gt;
+&lt;p&gt;На этой неделе я не совершил ни одной ошибки. Поэтому все супер!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой проект</title>
+      <link>https://asgnatyuk.github.io/ru/project/my-project/</link>
+      <pubDate>Sat, 28 May 2022 19:08:26 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/project/my-project/</guid>
+      <description>&lt;p&gt;Приветик)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентации</title>
+      <link>https://asgnatyuk.github.io/ru/post/presentation/report_design/</link>
+      <pubDate>Sat, 21 May 2022 15:38:22 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/presentation/report_design/</guid>
+      <description>&lt;h1 id=&#34;создание-в-powerpoint&#34;&gt;Создание в PowerPoint&lt;/h1&gt;
+&lt;p&gt; 
+&lt;p&gt;&lt;strong&gt;В PowerPoint на ПК, Mac или мобильном устройстве:&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Создавайте презентации с нуля или по шаблону.
+&lt;p&gt;Добавляйте текст, изображения, иллюстрации и видео.
+&lt;p&gt;Выбирайте профессиональный дизайн с помощью PowerPoint Designer.
+&lt;p&gt;Добавляйте переходы, анимацию и движения.
+&lt;P&gt;Сохраняйте в OneDrive, чтобы иметь доступ к презентациям с компьютера, планшета или телефона.
+&lt;h1 id=&#34;создание-презентации&#34;&gt;Создание презентации&lt;/h1&gt;
+&lt;p&gt;Откройте PowerPoint.
+&lt;p&gt;На левой панели выберите Новый.
+&lt;p&gt;Выберите вариант:
+&lt;p&gt;Чтобы создать презентацию с нуля, выберите Пустая презентация.
+&lt;p&gt;Чтобы использовать готовый дизайн, выберите один из шаблонов.
+&lt;p&gt;Чтобы просмотреть советы по использованию PowerPoint, выберите пункт Прогулка, а затем выберите Создать.
+&lt;h1 id=&#34;добавить-слайд&#34;&gt;Добавить слайд&lt;/h1&gt;
+&lt;p&gt;В эскизах на левой панели выберите слайд, за которым должен следовать новый слайд.
+&lt;p&gt;На вкладке Главная в разделе Слайды выберите Новый слайд.
+&lt;p&gt;В разделе Слайды выберите Макет, а затем выберите нужный макет из меню.
+&lt;h1 id=&#34;добавление-и-форматирование-текста&#34;&gt;Добавление и форматирование текста&lt;/h1&gt;
+&lt;p&gt;Поместите курсор в текстовое поле и введите текст.
+&lt;p&gt;Выделите текст, а затем выберите один или несколько параметров из раздела Шрифт вкладки Главная, например Шрифт, Увеличить размер шрифта, Уменьшить размер шрифта, Полужирный, Курсив, Подчеркивание и т. д.
+&lt;p&gt;Чтобы создать маркированные или нумерованные списки, выделите текст, а затем выберите Пули или Нумерация.
+&lt;h1 id=&#34;добавить-изображение-фигуру-и-многое-другое&#34;&gt;Добавить изображение, фигуру и многое другое&lt;/h1&gt;
+&lt;p&gt;Перейдите на вкладку &#34;Вставка&#34;.
+&lt;p&gt;Для добавления изображения:
+&lt;p&gt;В разделе Изображения выберите Картинки.
+&lt;p&gt;В меню &#34;Вставить картинку из&#34; выберите нужный источник.
+&lt;p&gt;Найдите нужную картинку, выберите ее, а затем выберите Вставить.
+&lt;p&gt;Для добавления иллюстраций:
+&lt;p&gt;В разделе Иллюстрации выберите Фигуры, Значки, 3D-модели, SmartArt или Диаграммы.
+&lt;p&gt;В диалоговом окне, которое открывается при нажатии на один из типов иллюстраций, выберите нужный элемент и следуйте подсказкам для его вставки.
+</description>
+    </item>
+    
+    <item>
+      <title>Последняя неделя(16.05-22.05)</title>
+      <link>https://asgnatyuk.github.io/ru/post/last-week16.05-22.05/last-week16.05-22.05/</link>
+      <pubDate>Sat, 21 May 2022 15:36:57 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/last-week16.05-22.05/last-week16.05-22.05/</guid>
+      <description>&lt;p&gt;Привет всем, в этом посте я хотел бы рассказать вам о том, что я сделал на прошлой неделе.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя.&lt;/h1&gt;
+&lt;p&gt;Итак, это была довольно насыщенная неделя. За эти дни произошло много событий. Во-первых, это был день рождения моего друга. В тот день мы ходили на квест и ели пиццу. Это самое интересное, что произошло на этой неделе.&lt;/p&gt;
+&lt;h1 id=&#34;что-я-понял&#34;&gt;Что я понял?&lt;/h1&gt;
+&lt;p&gt;Я поняла, что мне нужно больше ходить на квесты. Они действительно помогают преодолеть некоторые страхи и позволяют полностью погрузиться в жуткую атмосферу.&lt;/p&gt;
+&lt;h1 id=&#34;как-это-осознание-поможет-мне-в-будущем&#34;&gt;Как это осознание поможет мне в будущем?&lt;/h1&gt;
+&lt;p&gt;Я буду проходить больше квестов. Они действительно помогают мне понять, чего именно я боюсь. Я также буду хорошо проводить время со своей семьей или друзьями.&lt;/p&gt;
+&lt;h1 id=&#34;как-справиться-с-ошибками&#34;&gt;Как справиться с ошибками?&lt;/h1&gt;
+&lt;p&gt;Не допускать их.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://asgnatyuk.github.io/ru/post/markdown/markdown/</link>
+      <pubDate>Sat, 14 May 2022 22:10:59 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/markdown/markdown/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;Markdown-mark.png&#34; alt=&#34;Markdown_logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;обзор&#34;&gt;Обзор&lt;/h1&gt;
+&lt;p&gt;Почти все приложения для Markdown поддерживают базовый синтаксис, описанный в оригинальном документе по Markdown. Существуют незначительные вариации и расхождения между приложениями, использующими Markdown - они по возможности указываются в строке.&lt;/p&gt;
+&lt;h1 id=&#34;заголовки&#34;&gt;Заголовки&lt;/h1&gt;
+&lt;p&gt;Чтобы создать заголовок, добавьте знаки числа (#) перед словом или фразой. Количество используемых цифровых знаков должно соответствовать уровню заголовка. Например, чтобы создать заголовок третьего уровня, используйте три цифровых знака (например, ### Мой заголовок).&lt;/p&gt;
+&lt;h1 id=&#34;альтернативный-синтаксис&#34;&gt;Альтернативный синтаксис&lt;/h1&gt;
+&lt;p&gt;В качестве альтернативы в строке под текстом добавьте любое количество знаков == для заголовка уровня 1 или знаков &amp;ndash; для заголовка уровня 2.&lt;/p&gt;
+&lt;h1 id=&#34;лучшие-практики-работы-с-заголовками&#34;&gt;Лучшие практики работы с заголовками&lt;/h1&gt;
+&lt;p&gt;Приложения Markdown не согласны с тем, как обрабатывать пропущенный пробел между цифровыми знаками (#) и названием заголовка. Для совместимости всегда ставьте пробел между цифровыми знаками и названием заголовка.&lt;/p&gt;
+&lt;h1 id=&#34;абзацы&#34;&gt;Абзацы&lt;/h1&gt;
+&lt;p&gt;Чтобы создать абзацы, используйте пустую строку для разделения одной или нескольких строк текста.&lt;/p&gt;
+&lt;h1 id=&#34;разрывы-строк&#34;&gt;Разрывы строк&lt;/h1&gt;
+&lt;p&gt;Чтобы создать разрыв строки или новую строку, завершите строку двумя или более пробелами, а затем введите return.&lt;/p&gt;
+&lt;h1 id=&#34;полужирный&#34;&gt;Полужирный&lt;/h1&gt;
+&lt;p&gt;Чтобы выделить текст жирным шрифтом, добавьте две звездочки или знак подчеркивания перед и после слова или фразы. Чтобы выделить середину слова жирным шрифтом, добавьте две звездочки без пробелов вокруг букв.&lt;/p&gt;
+&lt;h1 id=&#34;курсив&#34;&gt;Курсив&lt;/h1&gt;
+&lt;p&gt;Чтобы выделить текст курсивом, добавьте одну звездочку или знак подчеркивания до и после слова или фразы. Чтобы выделить курсивом середину слова, добавьте одну звездочку без пробелов вокруг букв.&lt;/p&gt;
+&lt;h1 id=&#34;ссылки&#34;&gt;Ссылки&lt;/h1&gt;
+&lt;p&gt;Чтобы создать ссылку, заключите текст ссылки в скобки (например, [Duck Duck Go]), а затем сразу после него укажите URL в круглых скобках (например, (&lt;a href=&#34;https://duckduckgo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://duckduckgo.com&lt;/a&gt;)).&lt;/p&gt;
+&lt;h1 id=&#34;ссылки-ссылочного-стиля&#34;&gt;Ссылки ссылочного стиля&lt;/h1&gt;
+&lt;p&gt;Ссылки ссылочного стиля - это особый вид ссылок, которые облегчают отображение и чтение URL в Markdown. Ссылки в стиле ссылок состоят из двух частей: часть, которую вы сохраняете в строке текста, и часть, которую вы сохраняете в другом месте файла, чтобы текст было удобно читать.&lt;/p&gt;
+&lt;h1 id=&#34;изображения&#34;&gt;Изображения&lt;/h1&gt;
+&lt;p&gt;Чтобы добавить изображение, поставьте восклицательный знак (!), затем текст alt в скобках и путь или URL к изображению в круглых скобках. По желанию можно добавить заголовок в кавычках после пути или URL.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Последняя неделя(09.05-15.05)</title>
+      <link>https://asgnatyuk.github.io/ru/post/last_week/last-week/</link>
+      <pubDate>Sat, 14 May 2022 21:54:12 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/last_week/last-week/</guid>
+      <description>&lt;p&gt;Привет всем, в этом посте я хочу рассказать вам о том, как я провел последнюю неделю.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя.&lt;/h1&gt;
+&lt;p&gt;Ну, я хотел бы начать с того, что у меня была довольно продуктивная неделя. Я посвятил ее учебе и чтению книг. Я начал читать книгу &amp;ldquo;Война миров&amp;rdquo; Герберта Уэллса. Также мне удалось посмотреть фильм &amp;ldquo;Зеленая миля&amp;rdquo;. Естественно, стоит отметить тот факт, что я много гулял, потому что погода на той неделе была просто восхитительной.&lt;/p&gt;
+&lt;h1 id=&#34;что-я-понял&#34;&gt;Что я понял?&lt;/h1&gt;
+&lt;p&gt;Ну, поскольку я только недавно начал изучать языки программирования, для меня стало откровением, что Python - самый удобный и интересный язык. Выполнив несколько лабораторных работ, я понял, насколько понятен и практичен этот язык. Поэтому я хотел бы выучить его и использовать в будущем.&lt;/p&gt;
+&lt;h1 id=&#34;как-это-осознание-может-помочь-мне-в-будущем&#34;&gt;Как это осознание может помочь мне в будущем?&lt;/h1&gt;
+&lt;p&gt;Я считаю, что это мое озарение поможет мне на утомительном пути по карьерной лестнице. На этом языке написано огромное количество вещей. И игры на нем тоже есть. Так что это понимание очень поможет мне в будущем.&lt;/p&gt;
+&lt;h1 id=&#34;как-справиться-с-ошибками&#34;&gt;Как справиться с ошибками?&lt;/h1&gt;
+&lt;p&gt;Чтобы решить все свои проблемы, связанные с нехваткой свободного времени, нужно постараться граммотно и правильно распределить свое обычное время. И не заниматься в свободное время бесполезными делами. А учиться и учиться еще больше.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://asgnatyuk.github.io/ru/post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/post/</guid>
+      <description>&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://asgnatyuk.github.io/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://asgnatyuk.github.io/ru/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://asgnatyuk.github.io/ru/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://asgnatyuk.github.io/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://asgnatyuk.github.io/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

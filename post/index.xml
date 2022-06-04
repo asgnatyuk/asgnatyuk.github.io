@@ -1,22 +1,311 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Anastasya S. Gnatyuk</title>
+    <link>https://asgnatyuk.github.io/post/</link>
+      <atom:link href="https://asgnatyuk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 22:10:59 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 19:12:20 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/post/featured.jpg</url>
+      <url>https://asgnatyuk.github.io/post/featured.jpg</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://asgnatyuk.github.io/post/</link>
     </image>
     
     <item>
+      <title>Java</title>
+      <link>https://asgnatyuk.github.io/post/java/</link>
+      <pubDate>Sat, 28 May 2022 19:12:20 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/post/java/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Java_logo&#34; srcset=&#34;
+               /post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_72b8fea70fed059434d01a8c2e4e3848.webp 400w,
+               /post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_d34bacfa5e08688505d6a5e8a8dedeb7.webp 760w,
+               /post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://asgnatyuk.github.io/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_72b8fea70fed059434d01a8c2e4e3848.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;java&#34;&gt;Java&lt;/h1&gt;
+&lt;p&gt;Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need to recompile.Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub,particularly for client–server web applications, with a reported 9 million developers.&lt;/p&gt;
+&lt;p&gt;Java was originally developed by James Gosling at Sun Microsystems and released in May 1995 as a core component of Sun Microsystems&#39; Java platform. The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses. As of May 2007, in compliance with the specifications of the Java Community Process, Sun had relicensed most of its Java technologies under the GPL-2.0-only license. Oracle offers its own HotSpot Java Virtual Machine, however the official reference implementation is the OpenJDK JVM which is free open-source software and used by most developers and is the default JVM for almost all Linux distributions.
+&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;
+&lt;p&gt;James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991.Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time.The language was initially called Oak after an oak tree that stood outside Gosling&amp;rsquo;s office. Later the project went by the name Green and was finally renamed Java, from Java coffee, a type of coffee from Indonesia.Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar.&lt;/p&gt;
+&lt;h1 id=&#34;principles&#34;&gt;Principles&lt;/h1&gt;
+&lt;p&gt;There were five primary goals in the creation of the Java language:&lt;/p&gt;
+&lt;p&gt;It must be simple, object-oriented, and familiar.
+&lt;p&gt;It must be robust and secure.
+&lt;p&gt;It must be architecture-neutral and portable.
+&lt;p&gt;It must execute with high performance.
+&lt;p&gt;It must be interpreted, threaded, and dynamic.
+&lt;h1 id=&#34;syntax&#34;&gt;Syntax&lt;/h1&gt;
+&lt;p&gt;The syntax of Java is largely influenced by C++ and C. Unlike C++, which combines the syntax for structured, generic, and object-oriented programming, Java was built almost exclusively as an object-oriented language. All code is written inside classes, and every data item is an object, with the exception of the primitive data types, (i.e. integers, floating-point numbers, boolean values, and characters), which are not objects for performance reasons. Java reuses some popular aspects of C++ (such as the printf method).&lt;/p&gt;
+&lt;p&gt;Unlike C++, Java does not support operator overloading or multiple inheritance for classes, though multiple inheritance is supported for interfaces.
+&lt;p&gt;Java uses comments similar to those of C++. There are three different styles of comments: a single line style marked with two slashes (//), a multiple line style opened with /* and closed with */, and the Javadoc commenting style opened with /** and closed with */. The Javadoc style of commenting allows the user to run the Javadoc executable to create documentation for the program and can be read by some integrated development environments (IDEs) such as Eclipse to allow developers to access documentation within the IDE.
+All source files must be named after the public class they contain, appending the suffix .java, for example, HelloWorldApp.java. It must first be compiled into bytecode, using a Java compiler, producing a file with the .class suffix (HelloWorldApp.class, in this case). Only then can it be executed or launched. The Java source file may only contain one public class, but it can contain multiple classes with a non-public access modifier and any number of public inner classes. When the source file contains multiple classes, it is necessary to make one class (introduced by the class keyword) public (preceded by the public keyword) and name the source file with that public class name.
+&lt;p&gt;A class that is not declared public may be stored in any .java file. The compiler will generate a class file for each class defined in the source file. The name of the class file is the name of the class, with .class appended. For class file generation, anonymous classes are treated as if their name were the concatenation of the name of their enclosing class, a $, and an integer.
+&lt;p&gt;The keyword public denotes that a method can be called from code in other classes, or that a class may be used by classes outside the class hierarchy. The class hierarchy is related to the name of the directory in which the .java file is located. This is called an access level modifier. Other access level modifiers include the keywords private (a method that can only be accessed in the same class) and protected (which allows code from the same package to access). If a piece of code attempts to access private methods or protected methods, the JVM will throw a SecurityException
+&lt;p&gt;The keyword static in front of a method indicates a static method, which is associated only with the class and not with any specific instance of that class. Only static methods can be invoked without a reference to an object. Static methods cannot access any class members that are not also static. Methods that are not designated static are instance methods and require a specific instance of a class to operate.
+&lt;p&gt;The keyword void indicates that the main method does not return any value to the caller. If a Java program is to exit with an error code, it must call System.exit() explicitly.
+&lt;p&gt;The method name main is not a keyword in the Java language. It is simply the name of the method the Java launcher calls to pass control to the program. Java classes that run in managed environments such as applets and Enterprise JavaBeans do not use or need a main() method. A Java program may contain multiple classes that have main methods, which means that the VM needs to be explicitly told which class to launch from.
+&lt;p&gt;The main method must accept an array of String objects. By convention, it is referenced as args although any other legal identifier name can be used. Since Java 5, the main method can also use variable arguments, in the form of public static void main(String... args), allowing the main method to be invoked with an arbitrary number of String arguments. The effect of this alternate declaration is semantically identical (to the args parameter which is still an array of String objects), but it allows an alternative syntax for creating and passing the array.
+&lt;p&gt;The Java launcher launches Java by loading a given class (specified on the command line or as an attribute in a JAR) and starting its public static void main(String[]) method. Stand-alone programs must declare this method explicitly. The String[] args parameter is an array of String objects containing any arguments passed to the class. The parameters to main are often passed by means of a command line.
+&lt;p&gt;Printing is part of a Java standard library: The System class defines a public static field called out. The out object is an instance of the PrintStream class and provides many methods for printing data to standard out, including println(String) which also appends a new line to the passed string.
+&lt;p&gt;The string &#34;Hello World!&#34; is automatically converted to a String object by the compiler.</description>
+    </item>
+    
+    <item>
+      <title>Last Week(23.05 - 29.05)</title>
+      <link>https://asgnatyuk.github.io/post/last-week/</link>
+      <pubDate>Sat, 28 May 2022 19:12:03 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/post/last-week/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Pusheen&#34; srcset=&#34;
+               /post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_d66133de8c117b80a9afce3689c0c420.webp 400w,
+               /post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_30342e28cb5dc869415af791eefea132.webp 760w,
+               /post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://asgnatyuk.github.io/post/last-week/pusheen_hub53f7ea8af458c4220d9d4872170de4a_115474_d66133de8c117b80a9afce3689c0c420.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Hi everyone, in this post I&amp;rsquo;d like to tell you what I have spent that last week.&lt;/p&gt;
+&lt;h1 id=&#34;how-my-week-was-spent&#34;&gt;How my week was spent.&lt;/h1&gt;
+&lt;p&gt;I would like to start by saying that I had a great week! It was my birthday on May 23. The whole week I was showered with gifts and love. On top of that, I spent a whole week working and doing lab work. All in all, I had a great time!&lt;/p&gt;
+&lt;h1 id=&#34;what-i-have-realised&#34;&gt;What I have realised?&lt;/h1&gt;
+&lt;p&gt;Once again, I realized how awesome a birthday party is! All your friends and relatives are reminded of your existence on this day. It&amp;rsquo;s pretty nice. Guys, love birthdays!&lt;/p&gt;
+&lt;h1 id=&#34;how-this-realisation-can-help-me-in-future&#34;&gt;How this realisation can help me in future?&lt;/h1&gt;
+&lt;p&gt;This realization makes me love my life and the people around me even more.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-deal-with-mistakes&#34;&gt;How to deal with mistakes?&lt;/h1&gt;
+&lt;p&gt;I didn&amp;rsquo;t make any mistakes this week. That&amp;rsquo;s why everything is super!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сreating presentation</title>
+      <link>https://asgnatyuk.github.io/post/presentation/report_design/</link>
+      <pubDate>Sat, 21 May 2022 15:38:22 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/post/presentation/report_design/</guid>
+      <description>&lt;h1 id=&#34;creating-in-powerpoint&#34;&gt;Creating in PowerPoint&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;power.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;With PowerPoint on your PC, Mac, or mobile device:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create presentations from scratch or a template.
+&lt;p&gt;Add text, images, art, and videos.
+&lt;p&gt;Select a professional design with PowerPoint Designer.
+&lt;p&gt;Add transitions, animations, and motion.
+&lt;P&gt;Save to OneDrive, to get to your presentations from your computer, tablet, or phone.
+&lt;p&gt;Share and work with others, wherever they are.
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;create-a-presentation&#34;&gt;Create a presentation&lt;/h1&gt;
+&lt;p&gt;Open PowerPoint.
+&lt;p&gt; the left pane, select New.
+&lt;p&gt;Select an option:
+&lt;p&gt;To create a presentation from scratch, select Blank Presentation.
+&lt;p&gt;To use a prepared design, select one of the templates.
+&lt;p&gt;To see tips for using PowerPoint, select Take a Tour, and then select Create.
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;add-a-slide&#34;&gt;Add a slide&lt;/h1&gt;
+&lt;p&gt;In the thumbnails on the left pane, select the slide you want your new slide to follow.
+&lt;p&gt;In the Home tab, in the Slides section, select New Slide.
+&lt;p&gt;In the Slides section, select Layout, and then select the layout you want from the menu.
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;add-and-format-text&#34;&gt;Add and format text&lt;/h1&gt;
+&lt;p&gt;Place the cursor inside a text box, and then type something.
+&lt;p&gt;Select the text, and then select one or more options from the Font section of the Home tab, such as Font, Increase Font Size, Decrease Font Size, Bold, Italic, Underline, etc.
+&lt;p&gt;To create bulleted or numbered lists, select the text, and then select Bullets or Numbering.
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;add-a-picture-shape-and-more&#34;&gt;Add a picture, shape, and more&lt;/h1&gt;
+&lt;p&gt;Go to the Insert tab.
+&lt;p&gt;To add a picture:
+&lt;p&gt;In the Images section, select Pictures.
+&lt;p&gt;In the Insert Picture From menu, select the source you want.
+&lt;p&gt;Browse for the picture you want, select it, and then select Insert.
+&lt;p&gt;To add illustrations:
+&lt;p&gt;In the Illustrations section, select Shapes, Icons, 3D Models, SmartArt, or Chart.
+&lt;p&gt;In the dialog box that opens when you click one of the illustration types, select the item you want and follow the prompts to insert it.
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week(16.05-22.05)</title>
+      <link>https://asgnatyuk.github.io/post/last-week16.05-22.05/last-week16.05-22.05/</link>
+      <pubDate>Sat, 21 May 2022 15:36:57 +0300</pubDate>
+      <guid>https://asgnatyuk.github.io/post/last-week16.05-22.05/last-week16.05-22.05/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;cat.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Hi everyone, in this post I&amp;rsquo;d like to tell you what I Have done that last week.&lt;/p&gt;
+&lt;h1 id=&#34;how-my-week-was-spent&#34;&gt;How my week was spent.&lt;/h1&gt;
+&lt;p&gt;So, it&amp;rsquo;s been a pretty busy week. A lot happened during those days. First of all, it was my friend&amp;rsquo;s birthday. That day we went on a quest and had pizza. That&amp;rsquo;s the most interesting thing that happened this week.&lt;/p&gt;
+&lt;h1 id=&#34;what-i-have-realised&#34;&gt;What I have realised?&lt;/h1&gt;
+&lt;p&gt;I realized that I need to go on more quests. They really help to overcome some fears and allow you to fully immerse yourself in the terrifying atmosphere.&lt;/p&gt;
+&lt;h1 id=&#34;how-this-realisation-can-help-me-in-future&#34;&gt;How this realisation can help me in future?&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll be going on more quests. They really help me understand what it is I&amp;rsquo;m afraid of. I&amp;rsquo;ll also have a good time with my family or friends.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-deal-with-mistakes&#34;&gt;How to deal with mistakes?&lt;/h1&gt;
+&lt;p&gt;Keep them out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://asgnatyuk.github.io/post/markdown/markdown/</link>
       <pubDate>Sat, 14 May 2022 22:10:59 +0300</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://asgnatyuk.github.io/post/markdown/markdown/</guid>
       <description>&lt;p&gt;
 
 
@@ -64,12 +353,12 @@
     </item>
     
     <item>
-      <title>Last Week</title>
-      <link>https://example.com/post/last-week/</link>
+      <title>Last Week(09.05-15.05)</title>
+      <link>https://asgnatyuk.github.io/post/last_week/last-week/</link>
       <pubDate>Sat, 14 May 2022 21:54:12 +0300</pubDate>
-      <guid>https://example.com/post/last-week/</guid>
-      <description>&lt;p&gt;Hi everyone, in this post I&amp;rsquo;d like to tell you what I did last week.&lt;/p&gt;
-&lt;h1 id=&#34;how-my-weel-was-spent&#34;&gt;How my weel was spent.&lt;/h1&gt;
+      <guid>https://asgnatyuk.github.io/post/last_week/last-week/</guid>
+      <description>&lt;p&gt;Hi everyone, in this post I&amp;rsquo;d like to tell you what I have spent that last week.&lt;/p&gt;
+&lt;h1 id=&#34;how-my-week-was-spent&#34;&gt;How my week was spent.&lt;/h1&gt;
 &lt;p&gt;Well, I would like to start by saying that I had a pretty productive week. I devoted it to studying and reading books. I started reading the book &amp;ldquo;The War of the Worlds&amp;rdquo; by Herbert Wells. I also managed to watch the movie &amp;ldquo;The Green Mile&amp;rdquo;. Naturally, it should be noted the fact that I walked a lot, because the weather that week was just delightful.&lt;/p&gt;
 &lt;h1 id=&#34;what-i-have-realised&#34;&gt;What I have realised?&lt;/h1&gt;
 &lt;p&gt;Well, since I have only recently begun to learn programming languages, it was a revelation to me that Python is the most convenient and interesting language. After doing some lab work, I realized how clear and practical this language is. That&amp;rsquo;s why I would like to learn it and use it in the future.&lt;/p&gt;
@@ -82,51 +371,10 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/marcdown/</link>
+      <link>https://asgnatyuk.github.io/post/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/marcdown/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+      <guid>https://asgnatyuk.github.io/post/</guid>
+      <description>&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
 &lt;/ul&gt;

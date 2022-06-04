@@ -1,0 +1,1359 @@
+<!DOCTYPE html><html lang="ru-ru" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Анастасия С. Гнатюк" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Java Java - это высокоуровневый объектно-ориентированный язык программирования, основанный на классах, который разработан так, чтобы иметь как можно меньше зависимостей от реализации. Это язык программирования общего назначения, который позволяет программистам писать один раз, выполнять везде (WORA), что означает, что скомпилированный Java-код может работать на всех платформах, поддерживающих Java, без необходимости перекомпиляции." />
+
+  
+    <link rel="alternate" hreflang="en" href="https://asgnatyuk.github.io/post/java/" />
+  
+  <link rel="alternate" hreflang="ru-ru" href="https://asgnatyuk.github.io/ru/post/java/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/ru/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://asgnatyuk.github.io/ru/post/java/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Анастасия С. Гнатюк" />
+  <meta property="og:url" content="https://asgnatyuk.github.io/ru/post/java/" />
+  <meta property="og:title" content="Java | Анастасия С. Гнатюк" />
+  <meta property="og:description" content="Java Java - это высокоуровневый объектно-ориентированный язык программирования, основанный на классах, который разработан так, чтобы иметь как можно меньше зависимостей от реализации. Это язык программирования общего назначения, который позволяет программистам писать один раз, выполнять везде (WORA), что означает, что скомпилированный Java-код может работать на всех платформах, поддерживающих Java, без необходимости перекомпиляции." /><meta property="og:image" content="https://asgnatyuk.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://asgnatyuk.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ru-ru" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-05-28T19:12:20&#43;03:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-05-28T19:12:20&#43;03:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://asgnatyuk.github.io/ru/post/java/"
+  },
+  "headline": "Java",
+  
+  "datePublished": "2022-05-28T19:12:20+03:00",
+  "dateModified": "2022-05-28T19:12:20+03:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Анастасия С. Гнатюк"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Анастасия С. Гнатюк",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://asgnatyuk.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Java Java - это высокоуровневый объектно-ориентированный язык программирования, основанный на классах, который разработан так, чтобы иметь как можно меньше зависимостей от реализации. Это язык программирования общего назначения, который позволяет программистам писать один раз, выполнять везде (WORA), что означает, что скомпилированный Java-код может работать на всех платформах, поддерживающих Java, без необходимости перекомпиляции."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Java | Анастасия С. Гнатюк</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="52a4350d79604320e7eea8ed5e9d56f7" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Поиск</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Поиск ..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Поиск ...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/ru/">Анастасия С. Гнатюк</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Переключить навигацию">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/ru/">Анастасия С. Гнатюк</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#about"><span>Обо мне</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#posts"><span>Посты</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#projects"><span>Проекты</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#featured"><span>Публикации</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#contact"><span>Контакты</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Поиск"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>Русский</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://asgnatyuk.github.io/post/java/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Java</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    мая 28, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 мин. для прочтения
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Java_logo" srcset="
+               /ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_72b8fea70fed059434d01a8c2e4e3848.webp 400w,
+               /ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_d34bacfa5e08688505d6a5e8a8dedeb7.webp 760w,
+               /ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/post/java/java_hue1a684c93b35e020784138b85f2da6d8_47047_72b8fea70fed059434d01a8c2e4e3848.webp"
+               width="760"
+               height="428"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="java">Java</h1>
+<p>Java - это высокоуровневый объектно-ориентированный язык программирования, основанный на классах, который разработан так, чтобы иметь как можно меньше зависимостей от реализации. Это язык программирования общего назначения, который позволяет программистам писать один раз, выполнять везде (WORA), что означает, что скомпилированный Java-код может работать на всех платформах, поддерживающих Java, без необходимости перекомпиляции. Java-приложения обычно компилируются в байткод, который может работать на любой виртуальной машине Java (JVM) независимо от архитектуры компьютера. Синтаксис Java похож на синтаксис C и C++, но имеет меньше низкоуровневых средств, чем любой из них. Время выполнения Java предоставляет динамические возможности (такие как отражение и модификация кода во время выполнения), которые обычно недоступны в традиционных компилируемых языках. По данным GitHub на 2019 год, Java является одним из самых популярных языков программирования, особенно для клиент-серверных веб-приложений, с 9 миллионами разработчиков.
+<p>Java была первоначально разработана Джеймсом Гослингом в компании Sun Microsystems и выпущена в мае 1995 года как основной компонент платформы Java компании Sun Microsystems. Оригинальный и эталонный компиляторы Java, виртуальные машины и библиотеки классов были первоначально выпущены компанией Sun под проприетарными лицензиями. По состоянию на май 2007 года, в соответствии со спецификациями Java Community Process, Sun перелицензировала большинство своих технологий Java под лицензией GPL-2.0-only. Oracle предлагает свою собственную виртуальную машину HotSpot Java Virtual Machine, однако официальной эталонной реализацией является OpenJDK JVM, которая является бесплатным программным обеспечением с открытым исходным кодом, используется большинством разработчиков и является JVM по умолчанию почти для всех дистрибутивов Linux.
+<h1 id="история">История</h1>
+<p>Джеймс Гослинг, Майк Шеридан и Патрик Нотон начали проект по созданию языка Java в июне 1991 года. Java изначально была разработана для интерактивного телевидения, но в то время она была слишком сложной для индустрии цифрового кабельного телевидения. Первоначально язык назывался Oak в честь дуба, который стоял возле офиса Гослинга. Позже проект получил название Green и, наконец, был переименован в Java, от Java coffee, сорта кофе из Индонезии.Гослинг разработал Java с синтаксисом в стиле C/C++, который будет знаком системным и прикладным программистам.</p>
+<h1 id="принципы">Принципы</h1>
+<p>При создании языка Java преследовалось пять основных целей:</p>
+<p>Он должен быть простым, объектно-ориентированным и знакомым.
+<p>Он должен быть надежным и безопасным.
+<p>Он должен быть нейтральным к архитектуре и переносимым.
+<p>Он должен выполняться с высокой производительностью.
+<p> Он должен быть интерпретируемым, потоковым и динамическим.
+<h1 id="синтаксис">Синтаксис</h1>
+<p>Синтаксис Java в значительной степени сформировался под влиянием C++ и C. В отличие от C++, который сочетает в себе синтаксис структурного, общего и объектно-ориентированного программирования, Java был создан почти исключительно как объектно-ориентированный язык. Весь код пишется внутри классов, и каждый элемент данных является объектом, за исключением примитивных типов данных (т.е. целых чисел, чисел с плавающей точкой, булевых значений и символов), которые не являются объектами по причинам производительности. Java повторно использует некоторые популярные аспекты C++ (например, метод printf).</p>
+<p>В отличие от C++, Java не поддерживает перегрузку операторов и множественное наследование для классов, хотя множественное наследование поддерживается для интерфейсов.
+<p>В Java используются комментарии, аналогичные комментариям в C++. Существует три различных стиля комментариев: однострочный, обозначаемый двумя косыми чертами (//), многострочный, открываемый символом /* и закрываемый символом */, и стиль комментариев Javadoc, открываемый символом /** и закрываемый символом */. Стиль комментирования Javadoc позволяет пользователю запустить исполняемый файл Javadoc для создания документации к программе и может быть прочитан некоторыми интегрированными средами разработки (IDE), такими как Eclipse, чтобы позволить разработчикам получить доступ к документации в IDE.
+Все исходные файлы должны быть названы по имени публичного класса, который они содержат, с добавлением суффикса .java, например, HelloWorldApp.java. Сначала он должен быть скомпилирован в байткод с помощью компилятора Java, в результате чего создается файл с суффиксом .class (в данном случае HelloWorldApp.class). Только после этого он может быть выполнен или запущен. Исходный файл Java может содержать только один открытый класс, но он может содержать несколько классов с модификатором непубличного доступа и любое количество открытых внутренних классов. Когда исходный файл содержит несколько классов, необходимо сделать один класс (представленный ключевым словом class) публичным (которому предшествует ключевое слово public) и назвать исходный файл именем этого публичного класса.
+<p>Класс, который не объявлен как public, может храниться в любом файле .java. Компилятор создаст файл класса для каждого класса, определенного в исходном файле. Имя файла класса - это имя класса с добавлением .class. При генерации файла класса анонимные классы обрабатываются так, как если бы их имя было конкатенацией имени их объемлющего класса, $ и целого числа.
+<p>&lt;Ключевое слово public означает, что метод может быть вызван из кода других классов, или что класс может быть использован классами вне иерархии классов. Иерархия классов связана с именем каталога, в котором находится файл .java. Это называется модификатором уровня доступа. Другие модификаторы уровня доступа включают ключевые слова private (метод, доступ к которому возможен только в том же классе) и protected (разрешает доступ коду из того же пакета). Если часть кода пытается получить доступ к приватным или защищенным методам, JVM выбросит SecurityException</p>
+<p>Ключевое слово static перед методом означает статический метод, который связан только с классом, а не с каким-либо конкретным экземпляром этого класса. Только статические методы могут быть вызваны без ссылки на объект. Статические методы не могут обращаться к членам класса, которые также не являются статическими. Методы, не обозначенные как статические, являются методами экземпляра и требуют для работы конкретного экземпляра класса.
+<p>Ключевое слово void указывает на то, что метод main не возвращает никакого значения вызывающей стороне. Если программа на Java должна завершиться с кодом ошибки, она должна явно вызвать System.exit().
+<p>Имя метода main не является ключевым словом в языке Java. Это просто имя метода, который вызывает программа запуска Java для передачи управления программе. Классы Java, работающие в управляемых средах, такие как апплеты и Enterprise JavaBeans, не используют и не нуждаются в методе main(). Программа Java может содержать несколько классов, имеющих методы main, что означает, что виртуальной машине необходимо явно указать, из какого класса запускать программу.
+<p>Метод main должен принимать массив объектов String. По традиции он обозначается как args, хотя можно использовать любое другое законное имя идентификатора. Начиная с Java 5, метод main может также использовать переменные аргументы в форме public static void main(String... args), что позволяет вызывать метод main с произвольным количеством аргументов String. Эффект этого альтернативного объявления семантически идентичен (параметр args по-прежнему является массивом объектов String), но он позволяет использовать альтернативный синтаксис для создания и передачи массива.
+<p>Пусковая установка Java запускает Java, загружая заданный класс (указанный в командной строке или как атрибут в JAR) и запуская его метод public static void main(String[]). Автономные программы должны объявить этот метод явно. Параметр String[] args - это массив объектов String, содержащий любые аргументы, переданные классу. Параметры в main часто передаются с помощью командной строки.
+<p>Печать является частью стандартной библиотеки Java: Класс System определяет публичное статическое поле, называемое out. Объект out является экземпляром класса PrintStream и предоставляет множество методов для печати данных на стандартный вывод, включая println(String), который также добавляет новую строку к переданной строке.
+<p>Строка "Hello World!" автоматически преобразуется компилятором в объект String.
+    </div>
+
+    
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://asgnatyuk.github.io/ru/post/java/&amp;text=Java" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://asgnatyuk.github.io/ru/post/java/&amp;t=Java" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Java&amp;body=https://asgnatyuk.github.io/ru/post/java/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://asgnatyuk.github.io/ru/post/java/&amp;title=Java" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Java%20https://asgnatyuk.github.io/ru/post/java/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://asgnatyuk.github.io/ru/post/java/&amp;title=Java" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://asgnatyuk.github.io/"><img class="avatar mr-3 avatar-circle" src="/ru/authors/admin/avatar_hu8ba0363f50c443e6815a4e4b1640614a_633710_270x270_fill_q75_lanczos_center.jpg" alt="Анастасия С. Гнатюк"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://asgnatyuk.github.io/">Анастасия С. Гнатюк</a></h5>
+      <h6 class="card-subtitle">Студент</h6>
+      <p class="card-text">Мои исследовательские интересы включают распределенную робототехнику, мобильные вычисления и программируемую материю.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/ru/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/channel/UCxCPcbIeVDGwpuDF0-OmGwQ" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.mendeley.com/reference-manager/library/all-references" target="_blank" rel="noopener">
+        <i class="ai ai-mendeley"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/signup.SignUpPublications.html" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://independent.academia.edu/AnastasiaGnatyuk" target="_blank" rel="noopener">
+        <i class="ai ai-academia"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/user/" target="_blank" rel="noopener">
+        <i class="ai ai-arxiv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/asgnatyuk" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.53d67dc2cb1ebceb89d5e2aba2f86112.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/ru/js/wowchemy.min.2dc4ec27206b78f9d05ad86312c44710.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Процитировать</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Копия
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Скачать
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+</body>
+</html>
